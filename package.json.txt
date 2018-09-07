@@ -1,0 +1,30 @@
+{
+  "name": "velho",
+  "version": "2.0.3",
+  "description": "velinhooow",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "my website",
+    "url": "web+https://alexbotdiscord.glitch.me"
+  },
+  "author": "Alex.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://camerabot.cf"
+  },
+  "homepage": "https://www.camerabot.cf",
+  "dependencies": {
+    "npm": "^6.4.1",
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "express": "^4.16.3"
+  }
+}
